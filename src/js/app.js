@@ -66,9 +66,11 @@ window.onload = function() {
     // if includeCover is true the algorithm should
     includeCover: true,
     // this is the url of the image that will used as background for the profile cover
-    background: "https://images.unsplash.com/photo-1511974035430-5de47d3b95da",
+    background:
+      "https://www.civitatis.com/blog/wp-content/uploads/2020/02/que-ver-islandia.jpg",
     // this is the url for the profile avatar
-    avatarURL: "https://randomuser.me/api/portraits/women/42.jpg",
+    avatarURL:
+      "https://media.licdn.com/dms/image/C4D03AQEjJfW2PNPSGA/profile-displayphoto-shrink_800_800/0/1625475470655?e=2147483647&v=beta&t=B5pCVWZxI7TpIbe_TdjYcPjrr9pOVskyxVcb1Z6qzsA",
     // social media bar position (left or right)
     socialMediaPosition: "position-left",
     // social media usernames
